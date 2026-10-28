@@ -1,0 +1,15 @@
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\bin\Debug\OneS0121-BlokadaMacierzy.dll
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\bin\Debug\OneS0121-BlokadaMacierzy.pdb
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\bin\Debug\CdnHydra.dll
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\obj\Debug\OneS0121-BlokadaMacierzy.csproj.GenerateResource.cache
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\obj\Debug\OneS0121-BlokadaMacierzy.csproj.CoreCompileInputs.cache
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\obj\Debug\OneS0121-BlokadaMacierzy.csproj.CopyComplete
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\obj\Debug\OneS0121-BlokadaMacierzy.dll
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\obj\Debug\OneS0121-BlokadaMacierzy.pdb
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\obj\Debug\OneS0121_BlokadaMacierzy.Form1.resources
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\bin\Debug\ADODB.dll
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\obj\Debug\OneS0121_BlokadaMacierzy.Confirm.resources
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\bin\Debug\cdn_api20202.net.dll
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\obj\Debug\OneS0121-BlokadaMacierzy.csproj.AssemblyReference.cache
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\obj\Debug\OneS0121_BlokadaMacierzy.Confirm2.resources
+C:\OneSupport\ExtraDach\OneS0121-BlokadaMacierzy\OneS0121-BlokadaMacierzy\obj\Debug\OneS0121_BlokadaMacierzy.Form2.resources
